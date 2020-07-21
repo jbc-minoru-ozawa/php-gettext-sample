@@ -1,0 +1,8 @@
+msgid "hworld"
+msgstr "こんにちは世界"
+
+msgid "newyear"
+msgstr "あけましておめでとう"
+
+msgid "goodnight"
+msgstr "おやすみなさい"

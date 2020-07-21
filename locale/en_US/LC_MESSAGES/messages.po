@@ -1,0 +1,8 @@
+msgid "hworld"
+msgstr "HELLO WORLD"
+
+msgid "newyear"
+msgstr "Happy New Year!"
+
+msgid "goodnight"
+msgstr "Good night!"
